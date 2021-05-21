@@ -21,3 +21,9 @@ git clone https://github.com/Hakiki-XC/Tools-2
 cd Tools-2
 
 python3 run.cpython-40.so
+
+# ada bug ?
+
+
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285946352369?text=Asalamualaikum+bang)
+#
